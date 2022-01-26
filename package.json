@@ -1,17 +1,21 @@
 {
   "name": "beep-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cli to give standard alerts in the terminal.",
   "main": "index.js",
   "scripts": {
-    "test":"node test.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zerodayrat/beep-cli.git"
   },
-  "keywords": ["cli","node-cli","cli-module"],
-  "author":{
+  "keywords": [
+    "cli",
+    "node-cli",
+    "cli-module"
+  ],
+  "author": {
     "name": "Saeed",
     "email": "bolt7w7@gmail.com",
     "url": "https://www.twitter.com/zerodayrat"
