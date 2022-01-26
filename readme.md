@@ -1,6 +1,6 @@
 # Beep-Cli
 
-A cli module built in node.js. This will show diffent types of alerts like, success, error, info and warnings.
+A cli module built in node.js. This module will show diffent types of alerts like, success, error, info and warnings.
 
 # Installation
 

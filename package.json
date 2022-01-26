@@ -1,7 +1,7 @@
 {
   "name": "beep-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A cli to give standard alerts in the terminal",
   "main": "index.js",
   "scripts": {
     "test":"node test.js"
