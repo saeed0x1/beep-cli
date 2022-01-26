@@ -1,22 +1,32 @@
-const alert = require("./index")
+const beep = require("./index")
 
-alert({
+beep({
     type:`success`,
-    msg:`It works !`,
-    name:`BAKA` // It's custom defind name for the alert
+    msg:`It works.`,
+    name:`` // It's custom defind name for the beep, It's optional.
 })
 
-alert({
+beep({
     type:`error`,
-    msg:`Something went wrong.`
+    msg:`Something went wrong.`,
+    name:``
+
 })
 
-alert({
+beep({
     type:`info`,
     msg:`Information about the cli.`,
+    name:``
 })
 
-alert({
+beep({
     type:`warning`,
-    msg:`Sussy Warning !!`
+    msg:`Sussy Warning !!`,
+    name:``
+})
+
+beep({
+    type:`success`,
+    msg:`Custom name works.`,
+    name:`CUSTOM NAME`
 })
