@@ -1,6 +1,5 @@
 # Beep-Cli
-![Beep-cli-Screenshot](./images/cli.png)
-
+![Beep-cli-Screenshot](./images/cli.PNG)
 
 A cli module built in node.js. This module will show diffent types of alerts like, success, error, info and warnings.
 
