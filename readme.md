@@ -18,7 +18,7 @@ const beep = require("beep-cli")
 # Example code
 
 ```js
-const beep = require("./index")
+const beep = require("beep-cli")
 
 beep({
     type:`success`,
